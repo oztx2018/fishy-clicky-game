@@ -1,0 +1,18 @@
+.header {
+    background-color: rgba(17, 166, 192, 0.533);
+    background-image: url("/assets/images/geometry.svg");
+    background-repeat: repeat;
+    color: white;
+    min-height: 100px;
+    padding: 180px 20px; 
+    padding-bottom: 140px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 4rem;
+  }
+
+  
